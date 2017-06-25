@@ -11,3 +11,9 @@ git learn
 
 
 
+## 暂存已修改文件
+
+* git add
+* git commit
+* git status -s 短命令
+*  
