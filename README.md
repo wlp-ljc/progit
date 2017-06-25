@@ -24,6 +24,9 @@ git learn
 * **git diff —cached 或 git diff —staged** 查看暂存区与需要提交的内容之间的差异
 * **git difftool —tool-help**  图形化插件
 
+## 调过暂存区域
 
+* git commit -a  调过暂存区域
+* ​
 
 ​    
