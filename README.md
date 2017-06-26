@@ -102,7 +102,10 @@ git learn
 
 ## 标签
 
-
+* git tag v0.1
+* git tag —g 'v01.8.5*' v1.8.5 查看v1.8.5版本
+* git tag -a v1.0.0 -m 'my version 1.0.0' 
+* git show 1.0.0git
 
 
 
