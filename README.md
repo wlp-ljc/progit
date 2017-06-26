@@ -97,6 +97,12 @@ git learn
 ## 查看远程仓库
 
 * git remote show origin
+* git remote rename 重新命名
+* git remote rm  远程仓库移除
+
+## 标签
+
+
 
 
 
