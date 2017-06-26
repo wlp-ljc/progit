@@ -76,12 +76,27 @@ git learn
   * —name-only 仅在提交信息显示已修改的文件清单
   * —name-status 显示新增、修改、删除的文件清单
   * —abbrev-commit 仅显示hash1的前几个字符
-  * ​
+
+
+## 撤销操作
+
+* git commit —amend 保存上次未保存的信息
+
+
+
+## 取消暂存的文件
+
+* git reset HEAD mv.md 撤销暂存文件
 
   ​
 
+## 取消对文件的修改
 
+* git checkout — mv.md 取消对文件的修改
 
+## 查看远程仓库
+
+* git remote show origin
 
 
 
