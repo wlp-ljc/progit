@@ -26,7 +26,8 @@ git learn
 
 ## 调过暂存区域
 
-* git commit -a  调过暂存区域
+* **git commit -m** '提交更改'
+* **git commit -a -m**  '调过暂存区域'
 * ​
 
 ​    
