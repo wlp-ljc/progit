@@ -28,6 +28,19 @@ git learn
 
 * **git commit -m** '提交更改'
 * **git commit -a -m**  '调过暂存区域'
-* ​
 
 ​    
+
+## 移除文件
+
+* **rm .md** 
+* **git rm .md**
+* **git rm -f** 强制删除，若已存在暂存区
+* **git rm —cached .md** 工作文件保留  暂存区域删除
+
+
+
+## 移动文件
+
+
+
