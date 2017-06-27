@@ -1,5 +1,7 @@
 git learn
 
+# git 基础操作
+
 ## git 文件状态
 
 * **untraccked file**
@@ -107,6 +109,22 @@ git learn
 * git tag -a v1.0.0 -m 'my version 1.0.0' 
 * git show 1.0.0git
 
+## git 别名
+
+* git config --global alias.co checkout
+* git config --global alias.br branch 
+* git config --global alias.ci commit
+* git config --global alias.unstage 'reset HEAD --'
+* git config --global alias.last 'log -1 HEAD'
+
+
+# git 分支
+
+## 分支含义
+
+* git branch testing
+* git log —oneline —decorate
+* git checkout testing
 
 
 
